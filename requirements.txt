@@ -1,0 +1,16 @@
+# Core ML/LLM Dependencies
+openrlhf>=0.2.0
+torch>=2.0.0
+transformers>=4.30.0
+deepspeed>=0.10.0
+accelerate>=0.20.0
+
+# Additional utilities
+datasets>=2.14.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Jupyter support (optional, for local development)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
